@@ -13,3 +13,7 @@ What does it do?
 ================
 
 qDayOne lets your quickly post a status update to Day One, just text, nothing else. 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/nitinthewiz/qdayone/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
